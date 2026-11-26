@@ -1,8 +1,8 @@
 {
  "version": 10,
  "releveLe": "05/10/2026",
- "catalogVersion": "2026-11-01",
- "dataUpdatedAt": "2026-11-01",
+ "catalogVersion": "2026-11-26",
+ "dataUpdatedAt": "2026-11-26",
  "sourceDate": "2026-09-29",
  "dateDIntegration": "2026-10-05",
  "source": "Grilles tarifaires, notices et DIC publics des etablissements ; comparateurs publics pour les entrees a confirmer",
@@ -12637,7 +12637,7 @@
    "fraisFondsEuros": "0.5",
    "fraisGestionPilotee": "0.37",
    "fraisSupports": "0.11",
-   "fraisSupportsPilotee": null,
+   "fraisSupportsPilotee": "0.11",
    "fraisSurVersement": "0",
    "fraisArbitrage": "0",
    "courtage": null,
@@ -12748,7 +12748,8 @@
    "confianceDonnees": "moyenne",
    "alias": [
     "Matla"
-   ]
+   ],
+   "noteFraisSupportsPilotee": "Gestion pilotée à horizon en ETF : total annoncé 0,98 % (profil Équilibré) = 0,50 % enveloppe + 0,37 % pilotage + 0,11 % supports (MoneyVox, à confirmer sur le DIC BoursoBank)."
   },
   {
    "id": "ca-per-assurance-perspective",
@@ -16377,7 +16378,7 @@
    "fraisFondsEuros": "2",
    "fraisGestionPilotee": "0.7",
    "fraisSupports": "0.3",
-   "fraisSupportsPilotee": null,
+   "fraisSupportsPilotee": "0.3",
    "fraisSurVersement": "0",
    "fraisArbitrage": "0",
    "courtage": null,
@@ -16635,7 +16636,8 @@
    "sourceFondsEuros": "https://www.linxea.com/retraite/linxea-spirit-per/supports-disponibles-sur-linxea-spirit-per/fonds-euro",
    "releveFondsEuros": "2026-10-24",
    "releveDonnees": "2026-10-24",
-   "confianceDonnees": "moyenne"
+   "confianceDonnees": "moyenne",
+   "noteFraisSupportsPilotee": "Frais des ETF de la gestion sous mandat Yomoni : 0,30 % par an (MoneyVox) ; total ETF 1,6 % maximum annoncé."
   },
   {
    "id": "allianz-per-horizon",
